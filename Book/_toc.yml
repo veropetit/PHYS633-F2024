@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: CourseInformation/README.md
+parts:
+  - caption: Course Structure and Information
+    chapters:
+    - file: CourseInformation/textbooks.md
+  - caption: Course Content
+    chapters:
+    - file: L01-TimeScales/README.md
+      sections:
+      - file: L01-TimeScales/01-Timescales-template.ipynb
