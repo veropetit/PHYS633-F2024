@@ -11,9 +11,9 @@ Therefore, we can define some topic-oriented learning goals as such:
 >*By the end of this course, I will be able to use **physics** to describe the structure and evolution of stars*
 
 To give you an idea of what this entails, here are a few examples of physics questions that we will answer:
-* How can we figure out how various properties (such as density, pressure, temperature, etc) are distributed inside of stars?
-* If we take a star of a certain — say mass — how can we figure out what the surface properties will be like?
-* How can we figure out what happen to stars as time goes by?
+* How are various properties (such as density, pressure, temperature, etc) distributed inside a star? How can we figure this out?
+* If we take a star of a certain — say mass — what will the surface properties will be like? How can we figure this out?
+* What happens to a star as time goes by? How can we figure this out?
 
 As you can see from these examples, there are a lot of "how can we figure X out" going on!
 
@@ -26,7 +26,7 @@ Because we are attempting to build a physics model for a star, this course is mo
 
 "What can this possibly mean?" I hear you say. Let me give a more specific example. In a traditional physics course about fundamental concepts, we would together learn about, say, conservation of angular momentum. We would learn how to apply this fundamental concept to a lot of different situations, and I can invent a million type of problem for you to solve to demonstrate that you can apply conservtion of anguar momentum. This would lend itself well to a traditional Exam/homework or a specification grading course structure. 
 
-As you will soon see in this course, there are not many different ways to build a star. At least for the most fundamental principle and equations that will dictate their structures. Therefore it is not like I can invent new "problems" to assess whether students have fullfill the scientific learning goals. 
+As you will soon see in this course, there are not many different ways to build a star. At a fundamental level, stellar physics is dominated by specific things like gravity, hydrostatic equilibrium, etc. Therefore it is not like I can invent new "problems" to assess whether students have fullfill the scientific learning goals. 
 
 This is why the work that you will be doing in this course (and the associated assements) are focused on explaining processes. As you will see in the next section, most of the work will be in the form of mini-reports (called the Notebooks) that together will form a complete portfolio. 
 
