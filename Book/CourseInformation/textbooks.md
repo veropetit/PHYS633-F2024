@@ -1,4 +1,4 @@
-# Suggested textbook
+# Suggested textbooks
 
 In this course, we will be covering elements of stellar interior structure, stellar atmospheres, and stellar evolution. Most of the times, textbook including all of these 3 topics are relatively general, whereas detailed information is generally included in a textbook on only one of these topics. Therefore, we will not be following one specific textbook, as we will be covering in depth selected topics in each areas. However, it means that more often than not the same information can be found in multiple textbooks, explained in different way. Always a plus!
 

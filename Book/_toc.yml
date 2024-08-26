@@ -8,8 +8,10 @@ parts:
     chapters:
     - file: CourseInformation/Policies.md
     - file: CourseInformation/UDpolicies.md
-    - file: CourseInformation/CourseGoals.md
     - file: CourseInformation/textbooks.md
+    - file: CourseInformation/CourseGoals.md
+    - file: CourseInformation/CourseStructure.md
+    - file: CourseInformation/NotebookSubmission.ipynb
   - caption: Course Content
     chapters:
     - file: L01-TimeScales/README.md
