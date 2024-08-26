@@ -6,19 +6,17 @@ Instructor: Dr. Véronique Petit
 Office: 202 Sharp Lab
 Email: VPetit@udel.edu
 
-* Times/Location: 
+* Times/Location: Tuesday/Thursday 14:20-15:40 (80 minutes) in ISE 315 (DSpOC)
 * Zoom link: see on canvas. 
-* Slack workspace: see on canvas. 
 
 Office hours: TBD during together first lecture, by appointment, or just stop by my office!
 
 
 Course websites: 
 
-* Most class material is grouped here and in the associated GitHub repository
+* Most class material is grouped here (and in the associated GitHub repository)
 * Canvas will be used to track grades, submit assignments for grading, and for private information. I will also use it to host videos sporadically. 
 * Large data files will be shared through Google Drive links.
-* A Slack workspace will be available for general class communication. 
 
 **Course description**: Introduction to the physics of stellar interiors and atmospheres. The evolution of stars is explored by studying the changes in internal composition due to nuclear reactions. The physical processes underlying stellar spectra are investigated. Computer simulations of stars and their atmospheres will be used.
 
