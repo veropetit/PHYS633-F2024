@@ -2,7 +2,7 @@
 
 Week 1, Tuesday
 
-Notebook: 01-Timescales.ipynb
+Notebook: 01-Timescales.ipynb (see next item)
 
 Slides shown in class: 
 
@@ -20,7 +20,15 @@ We made order of magnitude estimates of various timescales.
 
 * KH timescale
 * Nuclear timescale
-* Dynamical timescale <font color="red">S2022: we did this on Thursday</font>
+* Dynamical timescale
+
+Micro-objectives:
+- I can calculate the sun’s lifetime based on the chemical yield of a combustion reaction
+- I can calculate the sun’s lifetime based on the gravitational contraction
+- I can explain the yield from nuclear reactions and can calculate the sun’s lifetime based on the H-burning nuclear yield.
+- I can explain the approximation we use the estimate the hydrostatic timescale and I can calculate the sun’s hydrostatic’s timescale.
+- I can explain the consequence of the large difference between the hydro and nuclear timescale (and the resulting approximation we can make about the equations that describe stellar structure).
+
 
 > In the [textbooks](../textbooks.md):
 > 

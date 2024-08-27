@@ -13,6 +13,7 @@ parts:
     - file: CourseInformation/CourseStructure.md
     - file: CourseInformation/NotebookSubmission.ipynb
     - file: CourseInformation/Calendar.md
+    - file: CourseInformation/NotebookRubric.md
   - caption: Course Content
     chapters:
     - file: L01-TimeScales/README.md
