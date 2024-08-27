@@ -4,7 +4,7 @@ Week 1, Tuesday
 
 Notebook: 01-Timescales.ipynb (see next item)
 
-Slides shown in class: 
+Slides shown in class: [](L01-W1-Tu-timescales.pdf)
 
 ## Material covered and references
 
