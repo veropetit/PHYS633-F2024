@@ -20,7 +20,7 @@ We made order of magnitude estimates of various timescales.
 
 * KH timescale
 * Nuclear timescale
-* Dynamical timescale
+* Dynamical timescale (We'll finish this on Thursday!)
 
 Micro-objectives:
 - I can calculate the sun’s lifetime based on the chemical yield of a combustion reaction
