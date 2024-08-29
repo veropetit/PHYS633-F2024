@@ -19,3 +19,7 @@ parts:
     - file: L01-TimeScales/README.md
       sections:
       - file: L01-TimeScales/01-Timescales-template.ipynb
+    - file: L02-GravityField/README.md
+      sections:
+      - file: L02-GravityField/02-GravityField-template.ipynb
+      - file: L02-GravityField/Slides.md
