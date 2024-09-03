@@ -33,7 +33,7 @@ The mid-term and final will be evaluted with a "Excellent/GoodEffort/NeedsWork" 
 
 ### What if I need an extension?
 
-I will allow Y deadline extension per student. They are automatic, but you need to fill in this form before the due date: 
+I will allow a few deadline extension per student. They are automatic, but you need to fill in this form before the due date: https://forms.gle/q9CJjZonPPUcmSYh6
 
 ## How will your final grade be determined?
 
