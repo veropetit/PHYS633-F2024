@@ -23,7 +23,7 @@ All the textbooks below are more advanced texts. They are all on reserve at the 
 
 * "Prof. MacDonald's book": Structure and Evolution of Single Stars: An introduction, James MacDonald 
 
-	This book is a very good overview of Stellar Structure, written by our very own Prof. MacDonald! It is small and inexpensive, and includes calculations from modern stellar structure codes. There is a copy in reserve at the physics library, and it is available online from the Library website: https://delcat.alma.exlibrisgroup.com/discovery/search?query=any,contains,Structure%20and%20Evolution%20of%20Single%20Stars:%20An%20introduction,%20James%20Macdonald&tab=Everything&search_scope=LD_CDI_WC&vid=01UDEL_INST:01UDEL_INST&offset=0
+	This book is a very good overview of Stellar Structure, written by our very own Prof. MacDonald! It is small and inexpensive, and includes calculations from modern stellar structure codes. There is a copy in reserve at the physics library, and it is available online from the Library website: https://ebookcentral.proquest.com/lib/udel-ebooks/reader.action?docID=6953026
 
 * "The Kip": Stellar Structure and Evolution, Kippenhahn & Weigert (& Weiss for the 2nd edition) 
 
