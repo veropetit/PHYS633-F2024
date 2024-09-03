@@ -23,17 +23,17 @@ All the textbooks below are more advanced texts. They are all on reserve at the 
 
 * "Prof. MacDonald's book": Structure and Evolution of Single Stars: An introduction, James MacDonald 
 
-	This book is a very good overview of Stellar Structure, written by our very own Prof. MacDonald! It is small and inexpensive, and includes calculations from modern stellar structure codes. There is a copy in reserve at the physics library
+	This book is a very good overview of Stellar Structure, written by our very own Prof. MacDonald! It is small and inexpensive, and includes calculations from modern stellar structure codes. There is a copy in reserve at the physics library, and it is available online from the Library website: https://delcat.alma.exlibrisgroup.com/discovery/search?query=any,contains,Structure%20and%20Evolution%20of%20Single%20Stars:%20An%20introduction,%20James%20Macdonald&tab=Everything&search_scope=LD_CDI_WC&vid=01UDEL_INST:01UDEL_INST&offset=0
 
 * "The Kip": Stellar Structure and Evolution, Kippenhahn & Weigert (& Weiss for the 2nd edition) 
 
 	This book and the next are the bibles of interior structure. The Kip is more analytical.
-There is a copy on reserve at the Physics Library, and it is available as a PDF from the Library website: https://delcat.worldcat.org/title/stellar-structure-and-evolution/oclc/817913300&referer=brief_results (Links to an external site.)
+There is a copy on reserve at the Physics Library, and it is available as a PDF from the Library website: https://delcat.worldcat.org/title/stellar-structure-and-evolution/oclc/817913300&referer=brief_results 
 
 * "The Hansen": Stellar Interior: Physical Principals, Structure, and Evolution 2nd edition, Hanson, Kawaler, Trimble
 
 	The Hanson is equally good, perhaps a bit more verbose and contain more details on numerical methods. 
-There is a copy on reserve at the Physics Library, and you can read the whole book online, and download some part as PDFs: https://delcat.worldcat.org/title/stellar-interiors-physical-principles-structure-and-evolution/oclc/858876539&referer=brief_results (Links to an external site.)
+There is a copy on reserve at the Physics Library, and you can read the whole book online, and download some part as PDFs: https://delcat.worldcat.org/title/stellar-interiors-physical-principles-structure-and-evolution/oclc/858876539&referer=brief_results 
 
 ## Atmospheres:
 
