@@ -4,7 +4,7 @@ Week 1, Thursday
 
 Notebook: 02-GravityField.ipynb (see next item)
 
-Slides shown in class: (see next items)
+Slides shown in class: (see next item)
 
 ## Material covered and references
 
