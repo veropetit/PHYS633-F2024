@@ -27,3 +27,7 @@ parts:
       sections:
       - file: L03-HydroStaticEQ/03-HydroStaticEQ-template.ipynb
       - file: L03-HydroStaticEQ/Slides.md
+    - file: L04andL05-Polytropes/README.md
+      sections:
+      - file: L04andL05-Polytropes/04-Polytropes-template.ipynb
+      - file: L04andL05-Polytropes/Slides.md
