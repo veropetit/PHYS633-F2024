@@ -1,4 +1,4 @@
-# L05 Mean molecular weight
+# L06 Mean molecular weight
 
 Week 3, Thursday
 
@@ -13,7 +13,7 @@ We therefore relate the concentration of free particle with the density using a 
 * The distribution of element abundances (usually measured in mass fraction $X_i$)
 * The ionization level of each element ($y_i$) -- we will see how this is highly dependent on temperature in the next class meeting
 
-> In the [textbooks](../textbooks.md):
+> In the [textbooks](../CourseInformation/textbooks.md):
 > 
 >* Leblanc 5.6.2 
 >* McD 2.5 (fully ionized only)
@@ -32,7 +32,7 @@ $$\frac{1}{\mu} = \frac{1}{\mu_\mathrm{ion}} +\frac{1}{\mu_\mathrm{e}}$$
 
 In your notebook, we found out how to calculate the mean molecular weight given a known distribution of abundances for each element, in the completely neutral and completely ionized cases. 
 
-> In the [textbooks](../textbooks.md):
+> In the [textbooks](../CourseInformation/textbooks.md):
 > 
 >* Leblanc 5.6.2
 >* Hansen 1.4.1
@@ -41,7 +41,7 @@ In your notebook, we found out how to calculate the mean molecular weight given 
 
 In astronomy, we often refer to the abundance of elements in terms of their mass fraction. We also usually refer to the mass fraction of hydrogen by $X$, the mass fraction of helium by $Y$, and the mass fraction of everything else by $Z$ (also called the "metallicity"). In class I pointed out that we can write an approximation to calculate the mean molecular weight based on $X$, $Y$ and $Z$, instead of the complete calculation. The derivation of these formulas (and the approximations made) are in the textbooks
 
-> In the [textbooks](../textbooks.md):
+> In the [textbooks](../CourseInformation/textbooks.md):
 > 
 >* Leblanc, equations 5.126 and 5.127
 >* Kip 8.1 for abudances
