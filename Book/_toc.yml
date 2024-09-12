@@ -34,3 +34,4 @@ parts:
     - file: L06-MeanMolecularWeight/README.md
       sections:
       - file: L06-MeanMolecularWeight/06-MeanMolecularWeight-template.ipynb
+      - file: L06-MeanMolecularWeight/Slides.md
