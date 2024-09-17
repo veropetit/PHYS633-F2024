@@ -35,3 +35,7 @@ parts:
       sections:
       - file: L06-MeanMolecularWeight/06-MeanMolecularWeight-template.ipynb
       - file: L06-MeanMolecularWeight/Slides.md
+    - file: L07andL08-Saha/README.md
+      sections:
+      - file: L07andL08-Saha/08-SahaEquations-template.ipynb
+      - file: L07andL08-Saha/Slides.md
