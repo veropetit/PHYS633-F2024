@@ -13,6 +13,12 @@ We therefore relate the concentration of free particle with the density using a 
 * The distribution of element abundances (usually measured in mass fraction $X_i$)
 * The ionization level of each element ($y_i$) -- we will see how this is highly dependent on temperature in the next class meeting
 
+Micro-objectives:
+* I can state the ideal gas law in terms of the concentration of free particles.
+* I can explain the concept of “free” particles in a plasma (gas with ionization)
+* I can use logic to relate the concentration of free particles with density, for simple cases
+* I can state the definition of the mean molecular weight
+
 > In the [textbooks](../CourseInformation/textbooks.md):
 > 
 >* Leblanc 5.6.2 
@@ -31,6 +37,12 @@ The mean molecular weight per free particle is then:
 $$\frac{1}{\mu} = \frac{1}{\mu_\mathrm{ion}} +\frac{1}{\mu_\mathrm{e}}$$
 
 In your notebook, we found out how to calculate the mean molecular weight given a known distribution of abundances for each element, in the completely neutral and completely ionized cases. 
+
+* I can state the mass fraction of the sun.
+* I can sketch the mass fraction as a function of element for the sun.
+* I can explain the conceptual meaning of $\mu_\mathrm{ion}$ and $\mu_\mathrm{e}$ using explanatory examples.
+* I can derive the expressions for  $1/\mu_\mathrm{ion}$ and $1/\mu_\mathrm{e}$ as a function of the mass fraction. 
+* I can sketch the variation of the mean molecular weight as a function of radial coordinate for the current-day sun, and explain the different zones. 
 
 > In the [textbooks](../CourseInformation/textbooks.md):
 > 

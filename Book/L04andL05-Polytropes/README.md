@@ -12,6 +12,11 @@ So far, we only have two equations for stellar structure: mass continuity, and h
 
 We need to find a relation between two of these quantities. The ideal gas law is a relation between $P$ and $\rho$ (called an "equation of state", but it introduced another unknown $T(r)$. To find $T(r)$ we will have to talk about energy transport (later on).  
 
+Micro-objective: 
+* I can explain why we need to introduce an “equation of state” to be able to solve the structure of a star. 
+* I can explain why using the “ideal gas law” is not the final solution, and how using a “polytropic” equation of state can be used right now as an approximation. 
+---
+
 But for know, we can use some useful *polytropic equation of state* where the pressure only depends on the density to a certain power such that 
 
 $$P(r) = K\rho(r)^{\frac{n+1}{n}}$$
@@ -29,6 +34,11 @@ where theta is a unit-less function that describes the variation of the density 
 
 3. We can then transform our equations of structure into the well-known Lane-Emden differential equation for polytropes, the solution of which gives $\theta(\epsilon)$, where $\epsilon$ is unit-less and related to $r$.
 
+Micro-objectives: 
+* I can identify all of the terms in the polytropic equation of state. 
+* I can explain the meaning of the terms in our solution 'shape'.
+* I can explain where the $\alpha$ constant we use to normalize the radial coordinate $r$ comes from. 
+
 > In the [textbooks](../textbooks.md):
 > 
 >* The best one in my opinion is in the Leblanc: Sec 5.4, until eq. 5.93
@@ -43,6 +53,9 @@ where theta is a unit-less function that describes the variation of the density 
 
 2. From this, we found that we are able to then transform $\theta(\epsilon)$ into $rho/\rho_o$ versus $r/R\star$. We compared this with the real value of $rho/\rho_o$ inside of our Sun. 
 
+Micro-objectives: 
+* In a graph of $\theta(\epsilon)$ versus $\epsilon$, I can identify the center and surface of a star. 
+* I can transform a graph of $\theta(\epsilon)$ versus $\epsilon$ into a graph of $\rho/\rho_o$ versus $r/R_\star$.
 
 > In the [textbooks](../textbooks.md):
 > 
@@ -60,6 +73,10 @@ We found 3 equations that relate $M_\star$, $R_\star$, $P_o$, $\rho_o$, and $K$.
 For example, you can make equations for $P_o$, $\rho_o$, and $K$ that only depends on $M_\star$ and $R_\star$. 
 
 Another example would be for stars with degenerate matter (we'll talk about this later in the course). In this case $K$ is known from statistical mechanics -- therefore if we pick the mass of the star, the radius, central pressure, and central density are all known. 
+
+Micro-objectives:
+* I can explain how the expressions for $R_\star$, $P_o$, and $M_\star$ create a system of 3 equations and 5 unknowns. 
+* I can use polytropic models to compare with the Sun’s density profile shape and central density value. 
 
 > In the [textbooks](../textbooks.md):
 > 
