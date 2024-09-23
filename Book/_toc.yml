@@ -39,3 +39,6 @@ parts:
       sections:
       - file: L07andL08-Saha/08-SahaEquations-template.ipynb
       - file: L07andL08-Saha/Slides.md
+    - file: L09-MeanFreePath/README.md
+      sections:
+      - file: L09-MeanFreePath/Slides.md
