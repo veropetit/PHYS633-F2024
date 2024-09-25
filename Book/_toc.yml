@@ -41,4 +41,8 @@ parts:
       - file: L07andL08-Saha/Slides.md
     - file: L09-MeanFreePath/README.md
       sections:
-      - file: L09-MeanFreePath/Slides.md
+      - file: L09-MeanFreePath/Slides.md    
+    - file: L10-Absorption/README.md
+      sections:
+      - file: L10-Absorption/10-Absorption-template.ipynb
+      - file: L10-Absorption/Slides.md
