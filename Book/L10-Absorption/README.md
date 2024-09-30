@@ -2,6 +2,7 @@
 
 Week 5, Thursday
 
+Notebook: 10-Absorption-template.ipynb
 
 ## Material covered and references
 
@@ -22,6 +23,12 @@ The goal of radiative transfer is to figure out what happens to the specific int
 
 We talked about the change in intensity due to absorption (pure absorption and/or scattering), and solved the radiative transfer equation for constant density and opacity.
 
+Micro-objective:
+- I can list the two different ways that intensity can be lost going through matter
+- I can list and describe the factors that contributes to an element of absorption ($dI$)
+- I can derive the equation for intensity as a function of position $I(s)$, and I can calculate and sketch it if given a functional form for the characteristics of the matter (e.g. $\rho(s)$, $\kappa(s)$, etc).
+
+
 
 > In the [textbooks](../CourseInformation/textbooks.md):
 > 
@@ -36,6 +43,11 @@ We talked about the change in intensity due to absorption (pure absorption and/o
 The concept of optical depth -- we combine the effect of density, opacity, and spatial traveled distance into a single quantity. The optical depth $\tau$ is defined to be zero at the observer's position. 
 
 Even though having zero optical depth at the observer might seem to add mathematical complexity for simple problems of intensity through a slab of material, it will prove to be mathematically very useful for propagation of light originating from very large optical depth. To find the emergent intensity one only needs to consider the light emitted inside of the first few optical depths from the observer, as anything emitted behind too many optical depths will be nearly completely absorbed before reaching the surface.
+
+Micro-objectives:
+- I can relate the definition of an element of optical depth ($\d\tau$) with the definition of an elements of absorption ($dI$)
+- I can derive the equation for the optical depth as a function of position $\tau(s)$, and I can calculate and sketch it if given a functional form for the characteristics of the matter (e.g. $\rho(s)$, $\kappa(s)$, etc).
+- I can describe why using optical depth as our “coordinate” system for RT might be advantageous. 
 
 > In the [textbooks](../CourseInformation/textbooks.md):
 > 

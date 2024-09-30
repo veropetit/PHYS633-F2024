@@ -8,7 +8,10 @@ Notebook: L11-SourceFunction-template.ipynb
 
 The change in intensity in the case of pure emission (the solution is a quite simple, straight integral, for once!).
 
-
+Micro-objectives
+- I can list the two different ways that intensity can be gained going through matter
+- I can list and describe the factors that contributes to an element of emission ($dI$)
+- I can derive the equation for intensity as a function of position $I(s)$, and I can calculate and sketch it if given a functional form for the characteristics of the matter (e.g. $\rho(s)$, $\kappa(s)$, etc).
 
 > In the [textbooks](../textbooks.md):
 > 
@@ -21,6 +24,11 @@ The change in intensity in the case of pure emission (the solution is a quite si
  
 * The source function is what the intensity will become after going through a number of optical depth. Of course, the intensity might not be able to become equal to the source function, if the source function itself varies significantly over a few optical depth. 
 
+Micro-objectives:
+- I can state and explain all of the terms in the formal solution of radiative transfer.
+- I can derive the equation for the solution of radiative transfer for constant density, opacity, and source function, starting from the formal solution.
+- I can make a sketch of $I(s)$ for constant density, opacity, and source function.
+- I can calculate the solution for $I(s)$ if given a simple functional form for e.g. $\rho(s)$ or $S(\tau)$.
 
 > In the [textbooks](../textbooks.md):
 > 
