@@ -46,3 +46,7 @@ parts:
       sections:
       - file: L10-Absorption/10-Absorption-template.ipynb
       - file: L10-Absorption/Slides.md
+    - file: L11-SourceFunction/README.md
+      sections:
+      - file: L11-SourceFunction/11-SourceFunction-template.ipynb
+      - file: L11-SourceFunction/Slides.md
