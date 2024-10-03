@@ -50,3 +50,6 @@ parts:
       sections:
       - file: L11-SourceFunction/11-SourceFunction-template.ipynb
       - file: L11-SourceFunction/Slides.md
+    - file: L12-ThermalRadiation/README.md
+      sections:
+      - file: L12-ThermalRadiation/Slides.md
