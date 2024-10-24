@@ -63,3 +63,6 @@ parts:
     - file: L15-FluxInFlatAtm/README.md
       sections:
       - file: L15-FluxInFlatAtm/Slides.md
+    - file: L16-AnalyticEstimate/README.md
+      sections:
+      - file: L16-AnalyticEstimate/Slides.md
