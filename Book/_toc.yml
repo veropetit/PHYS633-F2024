@@ -66,3 +66,7 @@ parts:
     - file: L16-AnalyticalEstimate/README.md
       sections:
       - file: L16-AnalyticalEstimate/Slides.md
+    - file: L17-GreyAtmosphere/README.md
+      sections:
+      - file: L17-GreyAtmosphere/17-GreyAtmosphere-template.ipynb
+      - file: L17-GreyAtmosphere/Slides.md
