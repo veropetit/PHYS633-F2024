@@ -70,3 +70,6 @@ parts:
       sections:
       - file: L17-GreyAtmosphere/17-GreyAtmosphere-template.ipynb
       - file: L17-GreyAtmosphere/Slides.md
+    - file: L18-Interiors/README.md
+      sections:
+      - file: L18-Interiors/Slides.md
