@@ -73,3 +73,7 @@ parts:
     - file: L18-Interiors/README.md
       sections:
       - file: L18-Interiors/Slides.md
+    - file: L19-Convection/README.md
+      sections:
+      - file: L19-Convection/19-Convection-template.ipynb
+      - file: L19-Convection/Slides.md
