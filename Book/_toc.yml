@@ -73,10 +73,10 @@ parts:
     - file: L18-Interiors/README.md
       sections:
       - file: L18-Interiors/Slides.md
-    - file: L19and20-Convection/README.md
+    - file: L19-Convection/README.md
       sections:
-      - file: L19and20-Convection/19-Convection-template.ipynb
-      - file: L19and20-Convection/Slides.md
+      - file: L19-Convection/19-Convection-template.ipynb
+      - file: L19-Convection/Slides.md
     - file: L21and22-NuclearEnergy/README.md
       sections:
       - file: L21and22-NuclearEnergy/Slides.md
