@@ -79,5 +79,5 @@ parts:
       - file: L19-Convection/Slides.md
     - file: L21and22-NuclearEnergy/README.md
       sections:
-      - file: L21and22-NuclearEnergy/22-NuclearEnergy.ipynb
+      - file: L21and22-NuclearEnergy/22-NuclearEnergy-template.ipynb
       - file: L21and22-NuclearEnergy/Slides.md
