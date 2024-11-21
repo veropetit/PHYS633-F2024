@@ -81,3 +81,7 @@ parts:
       sections:
       - file: L21and22-NuclearEnergy/22-NuclearEnergy-template.ipynb
       - file: L21and22-NuclearEnergy/Slides.md
+    - file: L23-Degeneracy/README.md
+      sections:
+      - file: L23-Degeneracy/23-Degeneracy-template.ipynb
+      - file: L23-Degeneracy/Slides.md
