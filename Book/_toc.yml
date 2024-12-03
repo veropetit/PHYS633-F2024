@@ -85,3 +85,6 @@ parts:
       sections:
       - file: L23-Degeneracy/23-Degeneracy-template.ipynb
       - file: L23-Degeneracy/Slides.md
+    - file: L24-RadiationPressure/README.md
+      sections:
+      - file: L24-RadiationPressure/Slides.md
