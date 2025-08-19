@@ -62,6 +62,6 @@ Once your letter grade (A,B,C,D) have been determined, then a modifyer will be a
 * no modifier if the Mid-term Oral grade is "GoodEffort"
 * "-" if the Mid-term Oral grade is "NeedsWork" 
 
-You can think of the Mid-term Oral as a practice to the Final Oral (as in, you can still earn an A or an A- even if is does not go so well), but with a small incentive to take this Mid-term Oral seriously enough that is will be a meaningful practice. 
+You can think of the Mid-term Oral as a practice to the Final Oral (as in, you can still earn an A or an A- even if is does not go so well), but with a small incentive to take this Mid-term Oral seriously enough that it will be a meaningful practice. 
 
 
